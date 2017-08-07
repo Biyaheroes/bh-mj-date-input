@@ -1,0 +1,7 @@
+<mjml>
+	<mj-body>
+		<mj-container>
+			<mj-date-input label="This is a date input"/>
+		</mj-container>
+	</mj-body>
+</mjml>
